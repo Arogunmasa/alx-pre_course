@@ -1,1 +1,2 @@
-my first readme
+my first Readme 
+i am a software engineer 
